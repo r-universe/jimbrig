@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/jimbrig/jimbrig.r-universe.dev
 	branch = HEAD
+[submodule "attachment"]
+	path = attachment
+	url = https://github.com/thinkR-open/attachment
+	registered = false
 [submodule "browsr"]
 	path = browsr
 	url = https://github.com/jimbrig/browsr
