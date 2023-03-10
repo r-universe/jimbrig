@@ -32,6 +32,10 @@
 [submodule "lossrx"]
 	path = lossrx
 	url = https://github.com/jimbrig/lossrx
+[submodule "papillon"]
+	path = papillon
+	url = https://github.com/ThinkR-open/chameleon
+	registered = false
 [submodule "plotly"]
 	path = plotly
 	url = https://github.com/Displayr/plotly
