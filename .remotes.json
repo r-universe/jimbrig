@@ -24,6 +24,12 @@
     "from": "lossrx"
   },
   {
+    "package": "papillon",
+    "url": "https://github.com/ThinkR-open/chameleon",
+    "via": ["rtraining"],
+    "from": "rtraining"
+  },
+  {
     "package": "plotly",
     "url": "https://github.com/Displayr/plotly",
     "via": ["lossrx", "flipTime"],
