@@ -1,5 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jimbrig/jimbrig.r-universe.dev
 	branch = HEAD
+[submodule "browsr"]
+	path = browsr
+	url = https://github.com/jimbrig/browsr
+[submodule "buildtools"]
+	path = buildtools
+	url = https://github.com/jimbrig/buildtools
+[submodule "configR"]
+	path = configR
+	url = https://github.com/jimbrig/configR
+[submodule "jimstools"]
+	path = jimstools
+	url = https://github.com/jimbrig/jimstools
+[submodule "losdevtapp"]
+	path = losdevtapp
+	url = https://github.com/jimbrig/lossdevtapp
+[submodule "lossrx"]
+	path = lossrx
+	url = https://github.com/jimbrig/lossrx
+[submodule "rtraining"]
+	path = rtraining
+	url = https://github.com/jimbrig/rtraining
+[submodule "templateeR"]
+	path = templateeR
+	url = https://github.com/jimbrig/templateeR
