@@ -26,8 +26,8 @@
 [submodule "jimstools"]
 	path = jimstools
 	url = https://github.com/jimbrig/jimstools
-[submodule "losdevtapp"]
-	path = losdevtapp
+[submodule "lossdevtapp"]
+	path = lossdevtapp
 	url = https://github.com/jimbrig/lossdevtapp
 [submodule "lossrx"]
 	path = lossrx
