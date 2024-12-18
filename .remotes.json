@@ -4,5 +4,29 @@
     "url": "https://github.com/thinkR-open/attachment",
     "via": ["jimstools"],
     "from": "jimstools"
+  },
+  {
+    "package": "connections",
+    "url": "https://github.com/rstudio/connections",
+    "via": ["lossrx"],
+    "from": "lossrx"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["lossrx"],
+    "from": "lossrx"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["lossrx", "flipTime"],
+    "from": "lossrx"
+  },
+  {
+    "package": "plotly",
+    "url": "https://github.com/Displayr/plotly",
+    "via": ["lossrx", "flipTime"],
+    "from": "lossrx"
   }
 ]

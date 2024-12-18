@@ -15,6 +15,18 @@
 [submodule "configR"]
 	path = configR
 	url = https://github.com/jimbrig/configR
+[submodule "connections"]
+	path = connections
+	url = https://github.com/rstudio/connections
+	registered = false
+[submodule "flipTime"]
+	path = flipTime
+	url = https://github.com/Displayr/flipTime
+	registered = false
+[submodule "flipU"]
+	path = flipU
+	url = https://github.com/Displayr/flipU
+	registered = false
 [submodule "jimstools"]
 	path = jimstools
 	url = https://github.com/jimbrig/jimstools
@@ -24,6 +36,10 @@
 [submodule "lossrx"]
 	path = lossrx
 	url = https://github.com/jimbrig/lossrx
+[submodule "plotly"]
+	path = plotly
+	url = https://github.com/Displayr/plotly
+	registered = false
 [submodule "rtraining"]
 	path = rtraining
 	url = https://github.com/jimbrig/rtraining
