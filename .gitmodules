@@ -2,23 +2,3 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "attachment"]
-	path = attachment
-	url = https://github.com/thinkR-open/attachment
-	registered = false
-[submodule "connections"]
-	path = connections
-	url = https://github.com/rstudio/connections
-	registered = false
-[submodule "flipTime"]
-	path = flipTime
-	url = https://github.com/Displayr/flipTime
-	registered = false
-[submodule "papillon"]
-	path = papillon
-	url = https://github.com/ThinkR-open/chameleon
-	registered = false
-[submodule "plotly"]
-	path = plotly
-	url = https://github.com/Displayr/plotly
-	registered = false
