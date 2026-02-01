@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/jimbrig/jimbrig.r-universe.dev
 	branch = HEAD
-[submodule "attachment"]
-	path = attachment
-	url = https://github.com/thinkR-open/attachment
-	registered = false
 [submodule "browsr"]
 	path = browsr
 	url = https://github.com/jimbrig/browsr
@@ -15,18 +11,6 @@
 [submodule "configR"]
 	path = configR
 	url = https://github.com/jimbrig/configR
-[submodule "connections"]
-	path = connections
-	url = https://github.com/rstudio/connections
-	registered = false
-[submodule "flipTime"]
-	path = flipTime
-	url = https://github.com/Displayr/flipTime
-	registered = false
-[submodule "flipU"]
-	path = flipU
-	url = https://github.com/Displayr/flipU
-	registered = false
 [submodule "jimstools"]
 	path = jimstools
 	url = https://github.com/jimbrig/jimstools
@@ -36,14 +20,6 @@
 [submodule "lossrx"]
 	path = lossrx
 	url = https://github.com/jimbrig/lossrx
-[submodule "papillon"]
-	path = papillon
-	url = https://github.com/ThinkR-open/chameleon
-	registered = false
-[submodule "plotly"]
-	path = plotly
-	url = https://github.com/Displayr/plotly
-	registered = false
 [submodule "rtraining"]
 	path = rtraining
 	url = https://github.com/jimbrig/rtraining
