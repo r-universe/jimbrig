@@ -5,9 +5,6 @@
 [submodule "browsr"]
 	path = browsr
 	url = https://github.com/jimbrig/browsr
-[submodule "buildtools"]
-	path = buildtools
-	url = https://github.com/jimbrig/buildtools
 [submodule "configR"]
 	path = configR
 	url = https://github.com/jimbrig/configR
@@ -17,12 +14,6 @@
 [submodule "gdalraster.windows"]
 	path = gdalraster.windows
 	url = https://github.com/jimbrig/gdalraster.windows
-[submodule "jimstools"]
-	path = jimstools
-	url = https://github.com/jimbrig/jimstools
-[submodule "lossdevtapp"]
-	path = lossdevtapp
-	url = https://github.com/jimbrig/lossdevtapp
 [submodule "lossrx"]
 	path = lossrx
 	url = https://github.com/jimbrig/lossrx
