@@ -17,9 +17,6 @@
 [submodule "gdalraster.windows"]
 	path = gdalraster.windows
 	url = https://github.com/jimbrig/gdalraster.windows
-[submodule "gdalvector"]
-	path = gdalvector
-	url = https://github.com/jimbrig/gdalvector
 [submodule "jimstools"]
 	path = jimstools
 	url = https://github.com/jimbrig/jimstools
