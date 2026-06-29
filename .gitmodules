@@ -14,6 +14,9 @@
 [submodule "gdalraster.windows"]
 	path = gdalraster.windows
 	url = https://github.com/jimbrig/gdalraster.windows
+[submodule "gdalvector"]
+	path = gdalvector
+	url = https://github.com/jimbrig/gdalvector
 [submodule "lossrx"]
 	path = lossrx
 	url = https://github.com/jimbrig/lossrx
