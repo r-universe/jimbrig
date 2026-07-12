@@ -17,6 +17,9 @@
 [submodule "gdalvector"]
 	path = gdalvector
 	url = https://github.com/jimbrig/gdalvector
+[submodule "gdalviz"]
+	path = gdalviz
+	url = https://github.com/jimbrig/gdalviz
 [submodule "lossrx"]
 	path = lossrx
 	url = https://github.com/jimbrig/lossrx
