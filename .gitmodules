@@ -26,6 +26,9 @@
 [submodule "rtraining"]
 	path = rtraining
 	url = https://github.com/jimbrig/rtraining
+[submodule "shinyhealth"]
+	path = shinyhealth
+	url = https://github.com/jimbrig/shinyhealth
 [submodule "templateeR"]
 	path = templateeR
 	url = https://github.com/jimbrig/templateeR
