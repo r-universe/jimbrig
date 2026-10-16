@@ -8,6 +8,9 @@
 [submodule "configR"]
 	path = configR
 	url = https://github.com/jimbrig/configR
+[submodule "entratar"]
+	path = entratar
+	url = https://github.com/jimbrig/entratar
 [submodule "freestiler"]
 	path = freestiler
 	url = https://github.com/jimbrig/freestiler
